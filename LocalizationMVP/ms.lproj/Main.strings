@@ -1,12 +1,12 @@
 
-/* Class = "UILabel"; text = "Country"; ObjectID = "TMb-UO-QOQ"; */
+/*Class = "UILabel"; text = "Country"; ObjectID = "TMb-UO-QOQ";*/
 "TMb-UO-QOQ.text" = "Country";
 
-/* Class = "UILabel"; text = "City"; ObjectID = "Tgp-tz-9jR"; */
+/*Class = "UILabel"; text = "City"; ObjectID = "Tgp-tz-9jR";*/
 "Tgp-tz-9jR.text" = "City";
 
-/* Class = "UILabel"; text = "Name"; ObjectID = "i0d-lI-EYG"; */
+/*Class = "UILabel"; text = "Name"; ObjectID = "i0d-lI-EYG";*/
 "i0d-lI-EYG.text" = "Name";
 
-/* Class = "UILabel"; text = "Gender"; ObjectID = "tTQ-Xc-Ipd"; */
+/*Class = "UILabel"; text = "Gender"; ObjectID = "tTQ-Xc-Ipd";*/
 "tTQ-Xc-Ipd.text" = "Gender";
